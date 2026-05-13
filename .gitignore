@@ -1,0 +1,11 @@
+jarvis-env/
+__pycache__/
+*.pyc
+.DS_Store
+memory.json
+.vscode/jarvis-env/
+__pycache__/
+*.pyc
+.DS_Store
+memory.json
+.vscode/
